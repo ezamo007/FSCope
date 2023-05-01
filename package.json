@@ -1,0 +1,26 @@
+{
+  "name": "fscope",
+  "version": "0.1.1",
+  "description": "Query and find data quality issues in data from Homeless Management Infomation Systems. The data used in this analysis project is simulated and does not represent any real individuals or groups.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ezamo007/FSCope.git"
+  },
+  "keywords": [
+    "HMIS",
+    "homelessness",
+    "CES",
+    "data",
+    "quality"
+  ],
+  "author": "Eduardo Zamora",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ezamo007/FSCope/issues"
+  },
+  "homepage": "https://github.com/ezamo007/FSCope#readme"
+}
